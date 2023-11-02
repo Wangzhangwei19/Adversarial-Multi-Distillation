@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="84e191f9-c77c-490b-a7e7-f521b5325a03" name="10.12.11.124">
+        <fileTransfer rootFolder="/home/zjut/public/signal/wzw/KD" accessType="SFTP" host="10.12.11.124" port="30907" sshConfigId="10c4b44f-a6b8-403a-b739-dbb3c0e0acbd" sshConfig="zjut@10.12.11.124:30907 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
